@@ -1,6 +1,12 @@
 second
 third
+<<<<<<< HEAD
 fourth
 fiveth
 sixth
 seventh
+=======
+second to last
+last
+extra
+>>>>>>> новая_ветка1
